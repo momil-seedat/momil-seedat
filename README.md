@@ -2,210 +2,140 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC0000,100:FF2800&height=190&section=header&text=Momil%20Seedat&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=AI%20Researcher%20%C2%B7%20Software%20Engineer%20%C2%B7%20Systems%20Architect&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-## 🏎️ Charles Leclerc × 🤖 AI
+### 🏎️ Charles Leclerc × 🤖 AI
 
 <i>Racing fast. Building intelligent systems.</i>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tifosi-%2316%20Leclerc-DC0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Forza-Ferrari-FFCC00?style=for-the-badge&labelColor=DC0000"/>
+<img src="https://img.shields.io/badge/%2316-Charles%20Leclerc-DC0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Scuderia-Ferrari-FFCC00?style=for-the-badge&labelColor=DC0000"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=DC0000&center=true&vCenter=true&width=750&lines=Building+intelligent+systems;Exploring+AI+systems+%26+security;Designing+cloud+%26+distributed+systems;Turning+research+ideas+into+working+systems" />
-
-<br/><br/>
-
-**AI Systems · Security · Software Engineering · Cloud · Distributed Systems**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=DC0000&center=true&vCenter=true&width=750&lines=AI+Researcher;Software+Engineer;Cloud+%26+Distributed+Systems;AI+Systems+%26+Security;Building+research+into+real+systems" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🤝 Open for Collaboration
 
-I'm a **Software Engineer and AI Researcher** with **6+ years of experience** building backend, cloud, distributed and data-intensive systems.
+I'm always interested in **research collaborations, interesting engineering problems, open-source projects, and startup ideas** around AI, software engineering, cloud systems and security.
 
-My current interests are around **AI systems and security**, while continuing to work on problems in **software engineering, cloud computing, distributed systems and system architecture**.
+If you have an idea that is worth building or experimenting with, **feel free to reach out.**
 
-I enjoy turning complex engineering and research problems into things that can be **built, measured and understood**.
+I'm especially interested in ideas that can move from:
 
-```text
-Idea → Build → Experiment → Measure → Learn → Improve
-```
-
-I prefer **evidence over impressive-looking output.**
+**Research → Prototype → Experiment → Product**
 
 ---
 
-## 🔬 Research & Projects
+## 🧠 About Me
+
+I build and research **intelligent, distributed, and cloud-native systems** — with a focus on understanding how complex systems behave and making them more reliable, observable, secure, and human-controllable.
+
+My work sits at the intersection of:
+
+* 🤖 **AI Systems & AI Safety**
+* 🔐 **AI Security & Resilience**
+* 🔬 **AI Research & Experimental Systems**
+* ☁️ **Cloud & Distributed Systems**
+* 🏗️ **Software Architecture**
+* 🧠 **Intelligent Agents & Multi-Agent Systems**
+* 📊 **Data-Intensive Systems**
+* 🕸️ **Graphs, Program Analysis & System Intelligence**
+
+---
+
+## 🚀 What I'm Exploring
+
+I'm particularly interested in questions like:
+
+> **How do we build intelligent systems that we can still understand, evaluate, and control?**
+
+My current interests include **AI systems, AI security, AI safety, agentic AI, human oversight and the behaviour of intelligent systems**.
+
+I also explore how software systems can be represented as **graphs, trajectories, dependencies and evolving states** to make their behaviour easier to reason about.
+
+---
+
+## 🔬 Research & Innovation
+
+Some of the things I'm building and experimenting with:
 
 ### 🧠 OpsCortex
 
-**Agentic AIOps for Distributed Microservices**
-
-A research prototype exploring how AI agents can help engineers understand complex distributed systems, service dependencies, failures and operational behaviour.
-
-The project combines **observability, topology, graph analysis and AI-assisted diagnosis**.
-
-**Technologies:** OpenTelemetry · FastAPI · Redis · Neo4j · NetworkX · SQLite · Prometheus · Grafana
-
-📄 **Preprint:** [arXiv:2606.20758](https://arxiv.org/abs/2606.20758)
-💻 **Code:** [github.com/momil-seedat/ops-cortex](https://github.com/momil-seedat/ops-cortex)
-
----
+**Agentic AIOps for distributed microservices** — combining observability, topology, graphs and AI-assisted diagnosis.
+📄 Preprint: arXiv:2606.20758
+💻 Code: github.com/momil-seedat/ops-cortex
 
 ### 🕸️ Artifact Impact Lab
 
-**Training-Free Change Impact Analysis**
+Exploring **heterogeneous artifact graphs** to understand how changes propagate across requirements, configuration, services and tests.
+📄 Preprint: arXiv:2606.18855
+💻 Code: GitHub
 
-A research project exploring how software artifacts and their relationships can be used to understand the potential impact of changes across a software system.
+### 🤖 AI Systems & Security
 
-The work combines **semantic similarity and graph-based structural propagation** to identify potentially affected artifacts.
-
-**Focus:** Software Engineering · Graph Analysis · Change Impact Analysis · Program Analysis
-
-📄 **Preprint:** [arXiv:2606.18855](https://arxiv.org/abs/2606.18855)
-💻 **Code:** [GitHub](https://github.com/momil-seedat)
+Exploring ways to make **AI and agentic systems more observable, secure and controllable**, particularly when agents interact with tools, data and other agents.
 
 ---
 
-## 🤖 AI Systems & Security
+## ☁️ Engineering Background
 
-I'm particularly interested in **AI systems that interact with tools, data, other agents and humans**.
+I have **6+ years of software engineering experience** working with large-scale backend and cloud systems.
 
-My interests include:
+### 💻 Software Engineering
 
-* AI systems
-* AI security
-* AI safety
-* Agentic AI
-* Multi-agent systems
-* AI evaluation
-* Human oversight
-* Tool-use security
-* AI system behaviour
-* Trustworthy AI
-
-I'm especially interested in understanding **how AI systems behave when they operate beyond a single prompt or isolated interaction**.
-
----
-
-## 💻 Software Engineering
-
-### Backend Engineering
-
-6+ years working with production software and distributed backend systems.
-
-**Experience with:**
-
-* Backend service development
+* Backend & distributed systems
 * Microservices
-* REST APIs
-* Event-driven systems
-* Asynchronous processing
-* Distributed systems
-* Data pipelines
-* Database design
+* Event-driven architectures
+* REST APIs & service design
+* Data-intensive applications
 * Performance optimisation
-* Concurrency and multithreading
-* Caching
-* Messaging systems
+* Concurrency & multithreading
+* Database design
+* Caching & messaging
 * Fault-tolerant systems
+* Production debugging & troubleshooting
+* Observability & monitoring
 
----
-
-### ☁️ Cloud Engineering
-
-Experience designing and working with cloud-based systems using:
+### ☁️ Cloud & Infrastructure
 
 * AWS
 * Docker
 * Kubernetes
 * ECS / Fargate
-* AWS Lambda
+* Lambda
 * Step Functions
 * Cloud databases
 * CI/CD
-* Monitoring & observability
+* Infrastructure & deployment
+* Production observability
+
+### 🗄️ Data & Systems
+
+`Java` · `Python` · `Kafka` · `Redis` · `Cassandra` · `MySQL` · `Aurora` · `SQLite` · `Neo4j`
+
+`OpenTelemetry` · `Prometheus` · `Grafana` · `NetworkX`
 
 ---
 
-### 🗄️ Data & Distributed Systems
+## 🧩 How I Think
 
-I've worked with systems involving large-scale data, distributed workloads and high-throughput services.
+I like working on problems where the answer isn't simply:
 
-**Databases**
+> **"Build another feature."**
 
-`MySQL` · `Aurora` · `Cassandra` · `Redis` · `SQLite` · `Neo4j`
-
-**Messaging & Streaming**
-
-`Kafka` · `Redis`
-
-**Observability**
-
-`OpenTelemetry` · `Prometheus` · `Grafana`
-
----
-
-## 🛠️ Technology
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,aws,docker,kubernetes,kafka,redis,mysql,cassandra,sqlite,neo4j,prometheus,grafana,git,github&perline=8"/>
-
-</p>
-
----
-
-## 🏗️ What I Build
-
-```text
-        Software Engineering
-                │
-        ┌───────┴───────┐
-        ▼               ▼
-   Cloud Systems   Distributed Systems
-        │               │
-        └───────┬───────┘
-                ▼
-          System Intelligence
-                │
-                ▼
-           AI Systems
-                │
-                ▼
-         AI Security & Safety
-```
-
-I enjoy problems involving **large-scale systems, complex dependencies, changing system behaviour and the intersection between software and AI.**
-
----
-
-## 🧩 Engineering Mindset
-
-I don't just want software to work.
-
-I want to understand:
-
-**Why does it work?**
-
-**Why does it fail?**
-
-**What happens when the system gets bigger?**
-
-**What happens when assumptions change?**
-
-**Can we measure it?**
+Instead:
 
 ```text
 Understand
     ↓
-Question
+Model
     ↓
-Build
+Experiment
     ↓
 Break
     ↓
@@ -214,57 +144,79 @@ Measure
 Improve
 ```
 
----
+I enjoy turning ambiguous system problems into something that can be **observed, measured, and experimentally evaluated**.
 
-## 🏎️ A Little Bit About Me
-
-I like **solving interesting problems.**
-
-### 🏎️ Speed
-
-### 🤖 Intelligence
-
-### 🧠 Engineering judgment
-
-**A good system needs all three.**
+I prefer **evidence over impressive-looking output.**
 
 ---
 
-## 📊 GitHub Activity
+## 📚 Research Interests
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=momil-seedat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DC0000&icon_color=FFCC00&text_color=c9d1d9&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momil-seedat&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC0000&text_color=c9d1d9" height="165"/>
-
-</p>
+```text
+AI Systems
+AI Safety
+AI Security
+Agentic AI
+Multi-Agent Systems
+Human Oversight
+Software Engineering for AI
+Program Analysis
+Distributed Systems
+Cloud Architecture
+System Observability
+Graph-Based Analysis
+Automated Testing
+Data-Intensive Systems
+```
 
 ---
 
-## 🐍 Contribution Journey
+## 🛠️ Selected Work
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/momil-seedat/momil-seedat/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</p>
+| Project                         | Area                                  |
+| ------------------------------- | ------------------------------------- |
+| **OpsCortex**                   | Agentic AIOps · Distributed Systems   |
+| **Artifact Impact Lab**         | Software Engineering · Graph Analysis |
+| **AI Systems Research**         | AI · Security · Safety                |
+| **Cloud & Distributed Systems** | Software Engineering · Architecture   |
 
 ---
 
-## 🔭 Currently Exploring
+## 🏎️ Engineering × Racing
 
-<p align="center">
+I have a thing for **fast systems**.
 
-`AI Systems` · `AI Security` · `AI Safety` · `Agentic AI` · `Distributed Systems` · `Cloud Architecture` · `Software Engineering Research` · `Graph-Based Systems`
+There is something interesting about Formula 1 engineering:
 
-</p>
+**small decisions → complex systems → milliseconds matter.**
+
+That's also how I think about software and innovation.
+
+> **Build fast. Measure everything. Understand why you won.**
+
+And yes...
+
+### ❤️ Charles Leclerc & Ferrari
+
+**🏎️ Speed · 🎯 Precision · 🤖 Technology · 🧠 Human judgment**
+
+
+## 🌱 Currently
+
+🔬 Exploring **AI systems, AI safety & security**
+🤖 Building **agentic systems and research prototypes**
+☁️ Designing **cloud-native distributed systems**
+🧠 Studying **how intelligent systems behave and fail**
+🚀 Exploring **research-driven startup ideas**
+🤝 Looking for **interesting people and problems to build with**
 
 ---
 
 <div align="center">
 
-### 🚦 Lights out — let's build something interesting.
+### Let's build something interesting.
+
+**Research · Engineering · Open Source · Startups**
 
 <br/>
 
