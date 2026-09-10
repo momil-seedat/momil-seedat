@@ -66,15 +66,21 @@ Some of the things I'm building and experimenting with:
 
 ### 🧠 OpsCortex
 
+### 🧠 OpsCortex
+
 **Agentic AIOps for distributed microservices** — combining observability, topology, graphs and AI-assisted diagnosis.
-📄 Preprint: arXiv:2606.20758
-💻 Code: github.com/momil-seedat/ops-cortex
+
+📄 **Preprint:** [arXiv:2606.20758](https://arxiv.org/abs/2606.20758)  
+💻 **Code:** [github.com/momil-seedat/ops-cortex](https://github.com/momil-seedat/ops-cortex)
+
+---
 
 ### 🕸️ Artifact Impact Lab
 
 Exploring **heterogeneous artifact graphs** to understand how changes propagate across requirements, configuration, services and tests.
-📄 Preprint: arXiv:2606.18855
-💻 Code: GitHub
+
+📄 **Preprint:** [arXiv:2606.18855](https://arxiv.org/abs/2606.18855)  
+💻 **Code:** [GitHub](https://github.com/momil-seedat)
 
 ### 🤖 AI Systems & Security
 
